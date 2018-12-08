@@ -7,7 +7,12 @@ class Tab1 extends Component {
       <View style={Styles.container}>
         <View style={Styles.raised}>
           <Text
-            style={{ fontSize: 16, fontWeight: "bold", textAlign: "center" }}
+            style={{
+              fontSize: 16,
+              fontWeight: "bold",
+              textAlign: "center",
+              color: "#f50057"
+            }}
           >
             Heading
           </Text>

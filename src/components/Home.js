@@ -1,20 +1,44 @@
 import React from "react";
-import { View, Text, StyleSheet } from "react-native";
+import {
+  View,
+  Text,
+  StyleSheet,
+  ScrollView,
+  TouchableOpacity,
+  Linking
+} from "react-native";
 
 import NavigationTabs from "./NavigationTabs";
 
 const HomeComponent = props => (
   <View style={Styles.container}>
-    <Text>
-      This is a prototype for stack based navigation, designed to prevent time
-      invested in intrigating of react-native-navigation library by wix
-    </Text>
-    <NavigationTabs onStackPush_childProp1={props.onStackPush} />
+    <ScrollView>
+      <Text style={{ fontWeight: "bold", color: "#f50057", fontSize: 15 }}>
+        Description:
+      </Text>
+      <Text>
+        This is a prototype for stack based navigation, designed to prevent time
+        invested in intrigating of
+      </Text>
+      <TouchableOpacity onPress={props.linktoUrl}>
+        <TouchableOpacity
+          onPress={() =>
+            Linking.openURL("https://wix.github.io/react-native-navigation/#/")
+          }
+        >
+          <Text style={{ color: "blue" }}>react-native-navigation by wix</Text>
+        </TouchableOpacity>
+      </TouchableOpacity>
+    </ScrollView>
+    <View>
+      <NavigationTabs onStackPush_childProp1={props.onStackPush} />
+    </View>
   </View>
 );
 
 const Styles = StyleSheet.create({
   container: {
+    flex: 1,
     alignContent: "center",
     justifyContent: "center",
     marginTop: 20,
