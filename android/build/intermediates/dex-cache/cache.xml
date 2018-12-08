@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/shubhamkkr/.android/build-cache/d72c45c1dfab1f0e833d651017fdb4fce31ef2e5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="e7a850c25a7efbd533c496ab482c980fdafac58d">
+        <dex dex="/home/shubhamkkr/react-native/RnnR/android/app/build/intermediates/pre-dexed/debug/classes_b806d947aa40ff34eafefd27c1fcdffc74245dc0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shubhamkkr/.android/build-cache/d72c45c1dfab1f0e833d651017fdb4fce31ef2e5/output/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/home/shubhamkkr/react-native/RnnR/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_cc2efa3e770f74a0ef6cf048b89ae1c4132a0446.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,246 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/shubhamkkr/react-native/RnnR/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/shubhamkkr/react-native/RnnR/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/shubhamkkr/react-native/RnnR/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/shubhamkkr/react-native/RnnR/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [:react-native-navigation] /home/shubhamkkr/react-native/RnnR/node_modules/react-native-navigation/lib/android/app/build/intermediates/manifests/full/reactNative56/debug/AndroidManifest.xml:2:1-17:12
+MERGED from [com.facebook.react:react-native:0.56.0] /home/shubhamkkr/.gradle/caches/transforms-1/files-1.1/react-native-0.56.0.aar/c8aaa24a9c6fa5fa62b7545a673da75d/AndroidManifest.xml:2:1-15:12
+MERGED from [com.github.wix-playground:ahbottomnavigation:2.4.5] /home/shubhamkkr/.gradle/caches/transforms-1/files-1.1/ahbottomnavigation-2.4.5.aar/ff0aff52db1970c0ab5d0d2db8072316/AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:design:26.1.0] /home/shubhamkkr/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/988e96b4ad5c277af1879ce926e2120f/AndroidManifest.xml:17:1-31:12
+MERGED from [com.github.wix-playground:reflow-animator:1.0.4] /home/shubhamkkr/.gradle/caches/transforms-1/files-1.1/reflow-animator-1.0.4.aar/68a1ee8849bacaf16dff1df563614753/AndroidManifest.xml:2:1-12:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/shubhamkkr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/705d2ebfe4b8c6d8dcbab67bdb3589bb/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/shubhamkkr/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/952ebc817e1affc8af572ceab460c90c/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/shubhamkkr/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/4bc340f6db4b1bb4cd1f55006d09c26c/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:transition:26.1.0] /home/shubhamkkr/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/9fc84774e099e78b0c76d4ea43f3abfc/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] /home/shubhamkkr/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/212224179c431668f46894908d1eb384/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/shubhamkkr/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/2c130e3af02c51f81e392129a70c24bb/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] /home/shubhamkkr/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/4faa750d68cc383b80ca0cb173fb18c7/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/shubhamkkr/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/0361e262d1b932d2ff48dce78fee13ef/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/shubhamkkr/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/5f069d2b6d043949e8e79ae179f8eaf6/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/shubhamkkr/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/710cab0dba80ba54970614ad449a7640/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] /home/shubhamkkr/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/66f683274679b565841c159cb6322e8c/AndroidManifest.xml:17:1-31:12
+MERGED from [com.github.clans:fab:1.6.4] /home/shubhamkkr/.gradle/caches/transforms-1/files-1.1/fab-1.6.4.aar/2a9aa8850dc5167c1609c75affa196c7/AndroidManifest.xml:2:1-14:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/shubhamkkr/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/e283cd2ebd0e65ed4664a141247ece6c/AndroidManifest.xml:17:1-30:12
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /home/shubhamkkr/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/c2cc980f32343dcc2c822086fb9cc2a0/AndroidManifest.xml:10:1-18:12
+MERGED from [com.facebook.fresco:fresco:1.9.0] /home/shubhamkkr/.gradle/caches/transforms-1/files-1.1/fresco-1.9.0.aar/80f9ebded4034d0ab68d412f7a472c68/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.9.0] /home/shubhamkkr/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.9.0.aar/e25f4ed2d26ab6750f2c9702d1dae8fc/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.9.0] /home/shubhamkkr/.gradle/caches/transforms-1/files-1.1/drawee-1.9.0.aar/1aa7da57be25ead168ec2ae581e82fba/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.9.0] /home/shubhamkkr/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.9.0.aar/3623cdcf3b42922630cc86939215ce1b/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.9.0] /home/shubhamkkr/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.9.0.aar/5503fd4572b71d56cee5bc6fd49f7983/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.3.0] /home/shubhamkkr/.gradle/caches/transforms-1/files-1.1/soloader-0.3.0.aar/2a1419e9ec16e0431b43f35d512e50d7/AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r174650] /home/shubhamkkr/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/f51ccbc149e3c6e4c289e9916814d3f4/AndroidManifest.xml:1:1-3:12
+MERGED from [com.facebook.fresco:fbcore:1.9.0] /home/shubhamkkr/.gradle/caches/transforms-1/files-1.1/fbcore-1.9.0.aar/5b5231f24ff6ff7fbe9b7edc7d9d6c64/AndroidManifest.xml:2:1-9:12
+INJECTED from /home/shubhamkkr/react-native/RnnR/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/shubhamkkr/react-native/RnnR/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/shubhamkkr/react-native/RnnR/android/app/src/main/AndroidManifest.xml:1:1-26:12
+	package
+		ADDED from /home/shubhamkkr/react-native/RnnR/android/app/src/main/AndroidManifest.xml:2:5-23
+		INJECTED from /home/shubhamkkr/react-native/RnnR/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/shubhamkkr/react-native/RnnR/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/shubhamkkr/react-native/RnnR/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/shubhamkkr/react-native/RnnR/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /home/shubhamkkr/react-native/RnnR/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/shubhamkkr/react-native/RnnR/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/shubhamkkr/react-native/RnnR/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /home/shubhamkkr/react-native/RnnR/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/shubhamkkr/react-native/RnnR/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/shubhamkkr/react-native/RnnR/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /home/shubhamkkr/react-native/RnnR/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /home/shubhamkkr/react-native/RnnR/android/app/src/main/AndroidManifest.xml:5:5-77
+MERGED from [com.facebook.react:react-native:0.56.0] /home/shubhamkkr/.gradle/caches/transforms-1/files-1.1/react-native-0.56.0.aar/c8aaa24a9c6fa5fa62b7545a673da75d/AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.56.0] /home/shubhamkkr/.gradle/caches/transforms-1/files-1.1/react-native-0.56.0.aar/c8aaa24a9c6fa5fa62b7545a673da75d/AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from /home/shubhamkkr/react-native/RnnR/android/app/src/main/AndroidManifest.xml:5:22-75
+application
+ADDED from /home/shubhamkkr/react-native/RnnR/android/app/src/main/AndroidManifest.xml:7:5-24:19
+MERGED from [:react-native-navigation] /home/shubhamkkr/react-native/RnnR/node_modules/react-native-navigation/lib/android/app/build/intermediates/manifests/full/reactNative56/debug/AndroidManifest.xml:11:5-15:19
+MERGED from [:react-native-navigation] /home/shubhamkkr/react-native/RnnR/node_modules/react-native-navigation/lib/android/app/build/intermediates/manifests/full/reactNative56/debug/AndroidManifest.xml:11:5-15:19
+MERGED from [com.facebook.react:react-native:0.56.0] /home/shubhamkkr/.gradle/caches/transforms-1/files-1.1/react-native-0.56.0.aar/c8aaa24a9c6fa5fa62b7545a673da75d/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.56.0] /home/shubhamkkr/.gradle/caches/transforms-1/files-1.1/react-native-0.56.0.aar/c8aaa24a9c6fa5fa62b7545a673da75d/AndroidManifest.xml:13:5-20
+MERGED from [com.github.wix-playground:ahbottomnavigation:2.4.5] /home/shubhamkkr/.gradle/caches/transforms-1/files-1.1/ahbottomnavigation-2.4.5.aar/ff0aff52db1970c0ab5d0d2db8072316/AndroidManifest.xml:11:5-20
+MERGED from [com.github.wix-playground:ahbottomnavigation:2.4.5] /home/shubhamkkr/.gradle/caches/transforms-1/files-1.1/ahbottomnavigation-2.4.5.aar/ff0aff52db1970c0ab5d0d2db8072316/AndroidManifest.xml:11:5-20
+MERGED from [com.android.support:design:26.1.0] /home/shubhamkkr/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/988e96b4ad5c277af1879ce926e2120f/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:design:26.1.0] /home/shubhamkkr/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/988e96b4ad5c277af1879ce926e2120f/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/shubhamkkr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/705d2ebfe4b8c6d8dcbab67bdb3589bb/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/shubhamkkr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/705d2ebfe4b8c6d8dcbab67bdb3589bb/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/shubhamkkr/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/952ebc817e1affc8af572ceab460c90c/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/shubhamkkr/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/952ebc817e1affc8af572ceab460c90c/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/shubhamkkr/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/4bc340f6db4b1bb4cd1f55006d09c26c/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/shubhamkkr/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/4bc340f6db4b1bb4cd1f55006d09c26c/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] /home/shubhamkkr/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/9fc84774e099e78b0c76d4ea43f3abfc/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] /home/shubhamkkr/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/9fc84774e099e78b0c76d4ea43f3abfc/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] /home/shubhamkkr/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/212224179c431668f46894908d1eb384/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /home/shubhamkkr/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/212224179c431668f46894908d1eb384/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/shubhamkkr/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/2c130e3af02c51f81e392129a70c24bb/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/shubhamkkr/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/2c130e3af02c51f81e392129a70c24bb/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /home/shubhamkkr/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/4faa750d68cc383b80ca0cb173fb18c7/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /home/shubhamkkr/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/4faa750d68cc383b80ca0cb173fb18c7/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/shubhamkkr/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/0361e262d1b932d2ff48dce78fee13ef/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/shubhamkkr/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/0361e262d1b932d2ff48dce78fee13ef/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/shubhamkkr/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/5f069d2b6d043949e8e79ae179f8eaf6/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/shubhamkkr/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/5f069d2b6d043949e8e79ae179f8eaf6/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/shubhamkkr/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/710cab0dba80ba54970614ad449a7640/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/shubhamkkr/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/710cab0dba80ba54970614ad449a7640/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /home/shubhamkkr/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/66f683274679b565841c159cb6322e8c/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /home/shubhamkkr/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/66f683274679b565841c159cb6322e8c/AndroidManifest.xml:25:5-29:19
+MERGED from [com.github.clans:fab:1.6.4] /home/shubhamkkr/.gradle/caches/transforms-1/files-1.1/fab-1.6.4.aar/2a9aa8850dc5167c1609c75affa196c7/AndroidManifest.xml:12:5-20
+MERGED from [com.github.clans:fab:1.6.4] /home/shubhamkkr/.gradle/caches/transforms-1/files-1.1/fab-1.6.4.aar/2a9aa8850dc5167c1609c75affa196c7/AndroidManifest.xml:12:5-20
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/shubhamkkr/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/e283cd2ebd0e65ed4664a141247ece6c/AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/shubhamkkr/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/e283cd2ebd0e65ed4664a141247ece6c/AndroidManifest.xml:24:5-28:19
+MERGED from [com.facebook.soloader:soloader:0.3.0] /home/shubhamkkr/.gradle/caches/transforms-1/files-1.1/soloader-0.3.0.aar/2a1419e9ec16e0431b43f35d512e50d7/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.3.0] /home/shubhamkkr/.gradle/caches/transforms-1/files-1.1/soloader-0.3.0.aar/2a1419e9ec16e0431b43f35d512e50d7/AndroidManifest.xml:11:5-20
+MERGED from [org.webkit:android-jsc:r174650] /home/shubhamkkr/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/f51ccbc149e3c6e4c289e9916814d3f4/AndroidManifest.xml:2:3-17
+MERGED from [org.webkit:android-jsc:r174650] /home/shubhamkkr/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/f51ccbc149e3c6e4c289e9916814d3f4/AndroidManifest.xml:2:3-17
+	android:label
+		ADDED from /home/shubhamkkr/react-native/RnnR/android/app/src/main/AndroidManifest.xml:9:7-39
+	android:icon
+		ADDED from /home/shubhamkkr/react-native/RnnR/android/app/src/main/AndroidManifest.xml:10:7-41
+	android:allowBackup
+		ADDED from /home/shubhamkkr/react-native/RnnR/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /home/shubhamkkr/react-native/RnnR/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:name
+		ADDED from /home/shubhamkkr/react-native/RnnR/android/app/src/main/AndroidManifest.xml:8:7-38
+activity#com.rnnr.MainActivity
+ADDED from /home/shubhamkkr/react-native/RnnR/android/app/src/main/AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from /home/shubhamkkr/react-native/RnnR/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from /home/shubhamkkr/react-native/RnnR/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from /home/shubhamkkr/react-native/RnnR/android/app/src/main/AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from /home/shubhamkkr/react-native/RnnR/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/shubhamkkr/react-native/RnnR/android/app/src/main/AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from /home/shubhamkkr/react-native/RnnR/android/app/src/main/AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from /home/shubhamkkr/react-native/RnnR/android/app/src/main/AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /home/shubhamkkr/react-native/RnnR/android/app/src/main/AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from /home/shubhamkkr/react-native/RnnR/android/app/src/main/AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /home/shubhamkkr/react-native/RnnR/android/app/src/main/AndroidManifest.xml:23:7-84
+MERGED from [:react-native-navigation] /home/shubhamkkr/react-native/RnnR/node_modules/react-native-navigation/lib/android/app/build/intermediates/manifests/full/reactNative56/debug/AndroidManifest.xml:12:9-14:40
+MERGED from [:react-native-navigation] /home/shubhamkkr/react-native/RnnR/node_modules/react-native-navigation/lib/android/app/build/intermediates/manifests/full/reactNative56/debug/AndroidManifest.xml:12:9-14:40
+	android:exported
+		ADDED from [:react-native-navigation] /home/shubhamkkr/react-native/RnnR/node_modules/react-native-navigation/lib/android/app/build/intermediates/manifests/full/reactNative56/debug/AndroidManifest.xml:14:13-37
+	android:name
+		ADDED from /home/shubhamkkr/react-native/RnnR/android/app/src/main/AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from /home/shubhamkkr/react-native/RnnR/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/shubhamkkr/react-native/RnnR/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/shubhamkkr/react-native/RnnR/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-navigation] /home/shubhamkkr/react-native/RnnR/node_modules/react-native-navigation/lib/android/app/build/intermediates/manifests/full/reactNative56/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-navigation] /home/shubhamkkr/react-native/RnnR/node_modules/react-native-navigation/lib/android/app/build/intermediates/manifests/full/reactNative56/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.56.0] /home/shubhamkkr/.gradle/caches/transforms-1/files-1.1/react-native-0.56.0.aar/c8aaa24a9c6fa5fa62b7545a673da75d/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.56.0] /home/shubhamkkr/.gradle/caches/transforms-1/files-1.1/react-native-0.56.0.aar/c8aaa24a9c6fa5fa62b7545a673da75d/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.wix-playground:ahbottomnavigation:2.4.5] /home/shubhamkkr/.gradle/caches/transforms-1/files-1.1/ahbottomnavigation-2.4.5.aar/ff0aff52db1970c0ab5d0d2db8072316/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.wix-playground:ahbottomnavigation:2.4.5] /home/shubhamkkr/.gradle/caches/transforms-1/files-1.1/ahbottomnavigation-2.4.5.aar/ff0aff52db1970c0ab5d0d2db8072316/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:26.1.0] /home/shubhamkkr/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/988e96b4ad5c277af1879ce926e2120f/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:26.1.0] /home/shubhamkkr/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/988e96b4ad5c277af1879ce926e2120f/AndroidManifest.xml:21:5-23:62
+MERGED from [com.github.wix-playground:reflow-animator:1.0.4] /home/shubhamkkr/.gradle/caches/transforms-1/files-1.1/reflow-animator-1.0.4.aar/68a1ee8849bacaf16dff1df563614753/AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.wix-playground:reflow-animator:1.0.4] /home/shubhamkkr/.gradle/caches/transforms-1/files-1.1/reflow-animator-1.0.4.aar/68a1ee8849bacaf16dff1df563614753/AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/shubhamkkr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/705d2ebfe4b8c6d8dcbab67bdb3589bb/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/shubhamkkr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/705d2ebfe4b8c6d8dcbab67bdb3589bb/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/shubhamkkr/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/952ebc817e1affc8af572ceab460c90c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/shubhamkkr/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/952ebc817e1affc8af572ceab460c90c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/shubhamkkr/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/4bc340f6db4b1bb4cd1f55006d09c26c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/shubhamkkr/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/4bc340f6db4b1bb4cd1f55006d09c26c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] /home/shubhamkkr/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/9fc84774e099e78b0c76d4ea43f3abfc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] /home/shubhamkkr/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/9fc84774e099e78b0c76d4ea43f3abfc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] /home/shubhamkkr/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/212224179c431668f46894908d1eb384/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /home/shubhamkkr/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/212224179c431668f46894908d1eb384/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/shubhamkkr/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/2c130e3af02c51f81e392129a70c24bb/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/shubhamkkr/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/2c130e3af02c51f81e392129a70c24bb/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] /home/shubhamkkr/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/4faa750d68cc383b80ca0cb173fb18c7/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] /home/shubhamkkr/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/4faa750d68cc383b80ca0cb173fb18c7/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/shubhamkkr/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/0361e262d1b932d2ff48dce78fee13ef/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/shubhamkkr/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/0361e262d1b932d2ff48dce78fee13ef/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/shubhamkkr/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/5f069d2b6d043949e8e79ae179f8eaf6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/shubhamkkr/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/5f069d2b6d043949e8e79ae179f8eaf6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/shubhamkkr/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/710cab0dba80ba54970614ad449a7640/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/shubhamkkr/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/710cab0dba80ba54970614ad449a7640/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /home/shubhamkkr/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/66f683274679b565841c159cb6322e8c/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /home/shubhamkkr/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/66f683274679b565841c159cb6322e8c/AndroidManifest.xml:21:5-23:58
+MERGED from [com.github.clans:fab:1.6.4] /home/shubhamkkr/.gradle/caches/transforms-1/files-1.1/fab-1.6.4.aar/2a9aa8850dc5167c1609c75affa196c7/AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.clans:fab:1.6.4] /home/shubhamkkr/.gradle/caches/transforms-1/files-1.1/fab-1.6.4.aar/2a9aa8850dc5167c1609c75affa196c7/AndroidManifest.xml:8:5-10:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/shubhamkkr/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/e283cd2ebd0e65ed4664a141247ece6c/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/shubhamkkr/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/e283cd2ebd0e65ed4664a141247ece6c/AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /home/shubhamkkr/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/c2cc980f32343dcc2c822086fb9cc2a0/AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /home/shubhamkkr/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/c2cc980f32343dcc2c822086fb9cc2a0/AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fresco:fresco:1.9.0] /home/shubhamkkr/.gradle/caches/transforms-1/files-1.1/fresco-1.9.0.aar/80f9ebded4034d0ab68d412f7a472c68/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.9.0] /home/shubhamkkr/.gradle/caches/transforms-1/files-1.1/fresco-1.9.0.aar/80f9ebded4034d0ab68d412f7a472c68/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.9.0] /home/shubhamkkr/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.9.0.aar/e25f4ed2d26ab6750f2c9702d1dae8fc/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.9.0] /home/shubhamkkr/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.9.0.aar/e25f4ed2d26ab6750f2c9702d1dae8fc/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.9.0] /home/shubhamkkr/.gradle/caches/transforms-1/files-1.1/drawee-1.9.0.aar/1aa7da57be25ead168ec2ae581e82fba/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.9.0] /home/shubhamkkr/.gradle/caches/transforms-1/files-1.1/drawee-1.9.0.aar/1aa7da57be25ead168ec2ae581e82fba/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.9.0] /home/shubhamkkr/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.9.0.aar/3623cdcf3b42922630cc86939215ce1b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.9.0] /home/shubhamkkr/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.9.0.aar/3623cdcf3b42922630cc86939215ce1b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.9.0] /home/shubhamkkr/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.9.0.aar/5503fd4572b71d56cee5bc6fd49f7983/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.9.0] /home/shubhamkkr/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.9.0.aar/5503fd4572b71d56cee5bc6fd49f7983/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.3.0] /home/shubhamkkr/.gradle/caches/transforms-1/files-1.1/soloader-0.3.0.aar/2a1419e9ec16e0431b43f35d512e50d7/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.3.0] /home/shubhamkkr/.gradle/caches/transforms-1/files-1.1/soloader-0.3.0.aar/2a1419e9ec16e0431b43f35d512e50d7/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fbcore:1.9.0] /home/shubhamkkr/.gradle/caches/transforms-1/files-1.1/fbcore-1.9.0.aar/5b5231f24ff6ff7fbe9b7edc7d9d6c64/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.9.0] /home/shubhamkkr/.gradle/caches/transforms-1/files-1.1/fbcore-1.9.0.aar/5b5231f24ff6ff7fbe9b7edc7d9d6c64/AndroidManifest.xml:5:5-7:41
+INJECTED from /home/shubhamkkr/react-native/RnnR/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/shubhamkkr/react-native/RnnR/android/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.1.0] /home/shubhamkkr/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/988e96b4ad5c277af1879ce926e2120f/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /home/shubhamkkr/react-native/RnnR/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/shubhamkkr/react-native/RnnR/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/shubhamkkr/react-native/RnnR/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/shubhamkkr/react-native/RnnR/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/shubhamkkr/react-native/RnnR/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/shubhamkkr/react-native/RnnR/android/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.1.0] /home/shubhamkkr/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/988e96b4ad5c277af1879ce926e2120f/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/shubhamkkr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/705d2ebfe4b8c6d8dcbab67bdb3589bb/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/shubhamkkr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/705d2ebfe4b8c6d8dcbab67bdb3589bb/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/shubhamkkr/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/952ebc817e1affc8af572ceab460c90c/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/shubhamkkr/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/952ebc817e1affc8af572ceab460c90c/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/shubhamkkr/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/4bc340f6db4b1bb4cd1f55006d09c26c/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/shubhamkkr/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/4bc340f6db4b1bb4cd1f55006d09c26c/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] /home/shubhamkkr/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/9fc84774e099e78b0c76d4ea43f3abfc/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] /home/shubhamkkr/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/9fc84774e099e78b0c76d4ea43f3abfc/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] /home/shubhamkkr/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/212224179c431668f46894908d1eb384/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /home/shubhamkkr/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/212224179c431668f46894908d1eb384/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/shubhamkkr/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/2c130e3af02c51f81e392129a70c24bb/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/shubhamkkr/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/2c130e3af02c51f81e392129a70c24bb/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /home/shubhamkkr/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/4faa750d68cc383b80ca0cb173fb18c7/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /home/shubhamkkr/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/4faa750d68cc383b80ca0cb173fb18c7/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/shubhamkkr/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/0361e262d1b932d2ff48dce78fee13ef/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/shubhamkkr/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/0361e262d1b932d2ff48dce78fee13ef/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/shubhamkkr/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/5f069d2b6d043949e8e79ae179f8eaf6/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/shubhamkkr/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/5f069d2b6d043949e8e79ae179f8eaf6/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/shubhamkkr/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/710cab0dba80ba54970614ad449a7640/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/shubhamkkr/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/710cab0dba80ba54970614ad449a7640/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /home/shubhamkkr/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/66f683274679b565841c159cb6322e8c/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /home/shubhamkkr/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/66f683274679b565841c159cb6322e8c/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:design:26.1.0] /home/shubhamkkr/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/988e96b4ad5c277af1879ce926e2120f/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:design:26.1.0] /home/shubhamkkr/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/988e96b4ad5c277af1879ce926e2120f/AndroidManifest.xml:27:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/shubhamkkr/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/e283cd2ebd0e65ed4664a141247ece6c/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/shubhamkkr/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/e283cd2ebd0e65ed4664a141247ece6c/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/shubhamkkr/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/e283cd2ebd0e65ed4664a141247ece6c/AndroidManifest.xml:26:13-58
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from /home/shubhamkkr/react-native/RnnR/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /home/shubhamkkr/react-native/RnnR/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /home/shubhamkkr/react-native/RnnR/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE
